@@ -1,0 +1,73 @@
+body{
+    background-color: #b1b2b4;
+}
+.head{
+    width: 100vw;
+    height: 10vh;
+    background-color: #212731;
+}
+.profpic{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    object-fit: cover;
+    position: absolute;
+    top: 22px;
+    left: 18px;
+}
+
+.git{
+    color: white;
+    position: absolute;
+    top: 12px;
+    left:48vw ;
+    font-family: 'Inter', sans-serif;
+}
+
+.container{
+    background-color:  #242426;
+    height: 32rem;
+    width: 20rem;
+    border-radius: 20px;
+    position: absolute;
+    top: 19vh;
+    left: 4vw;
+}
+
+.contnt{
+    background-color:#242426;
+    height: 6.5rem;
+    width: 10rem;
+    border-radius: 10px;
+}
+section{
+    display: flex;
+    gap: 100px;
+    position: absolute;
+    left: 37%;
+    top: 40%;
+}
+
+input{
+    font-family: 'Inter', sans-serif;
+    color:grey;
+
+    background-color:#242426 ;
+    border-radius: 5px;
+    width: 600px;
+    height: 30px;
+    position: absolute;
+    left: 600px;
+    top: 23vh;
+}
+
+.container2{
+    background-color:#242426;
+    height: 9.5rem;
+    width: 43rem;
+    border-radius: 20px;
+    position: absolute;
+    top: 67%;
+    left: 37%;
+
+}
